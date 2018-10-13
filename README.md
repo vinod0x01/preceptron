@@ -20,3 +20,12 @@ here we see how the simple preceptron will be implemented
 (Node2)/
 
 
+
+
+
+
+
+
+//preceptron
+
+

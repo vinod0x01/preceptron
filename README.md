@@ -1,7 +1,7 @@
 # preceptron
 examples of implementing perceptron algorithm
 
-This example shows the simple application of preceptron in student data separation, for admission.
+This example shows the simple application of preceptron in student data separation, for admission and or, and, xor, not gate imlementation.
 
 Here we can see exactly how the preceptron trains to find equation for a line for separating the data.
 

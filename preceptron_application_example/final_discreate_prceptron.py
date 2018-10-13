@@ -69,7 +69,7 @@ def draw_graph(line,itr):
 # X1_
 #	 \
 #	  \	 (step func) __ YES__
-#	   \     __ 	/		 \
+#	   \	 __ 	/		 \
 # X2----( __|   )---		  > y^
 #	   /			\__ NO___/
 #	  /

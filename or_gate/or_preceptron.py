@@ -19,12 +19,20 @@ outputs = []
 
 #the graph look like this
 
+
+"""
+node simulation
+	O\
+	  ()-->
+	O/
+"""
+
 # X1\
-#.   \w1 								 _ Yes
-#.    \									/
-#.     (x1*w1 + x2*w2 + b)----->(result)
-#.    / 								\
-#    /w2 								 - No
+#.   \w1 				                 _ Yes
+#.    \					                /
+#.     (x1*w1 + x2*w2 + b)------> result-->(activation)
+#.    / 				               \
+#    /w2 				                \_ No
 # X2/
 #
 for test_input, correct_output in zip(test_inputs, correct_outputs):

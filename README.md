@@ -14,7 +14,7 @@ Although we have lots of libraries in python :) for using it rather to go for co
 **(Node1)**\
         \Weight1
          \
-          >-------->(sum_function)--->(Activation function _|''')----->output
+          +----->(sum_function)--->(Activation function _|''')----->output
          /
         /Weight2
 **(Node2)**/

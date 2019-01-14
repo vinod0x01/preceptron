@@ -6,13 +6,13 @@
 ## the graph looks like
 ```
 X1_
-	 \
-	  \	 (step func)   __ YES___
-     \     __      /	        \
+   \
+    \	(step func)   __ YES__
+     \     __      /	      \
 X2----( __|   )---<            +--> y^
-	   /			       \__ NO____/
+     /.            \__ NO____/
     /
-	 /
-	/
+   /
+  /
  b
 ```

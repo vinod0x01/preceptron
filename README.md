@@ -1,4 +1,4 @@
-#preceptron#
+# preceptron
 examples of implementing perceptron algorithm
 
 This example shows the simple application of preceptron in student data separation, for admission and or, and, xor, not gate imlementation.
@@ -9,7 +9,7 @@ Although we have lots of libraries in python :) for using it rather to go for co
 :)
 
 
-##here we see how the simple preceptron will be implemented##
+## here we see how the simple preceptron will be implemented
 
 **(Node1)**\
         \Weight1
